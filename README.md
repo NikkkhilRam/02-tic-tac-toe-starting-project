@@ -16,3 +16,7 @@ This project is a React implementation of the classic Tic Tac Toe game. It serve
 ## Snapshot
 
 ![Tic Tac Toe Demo](src/assets/demo-image.png)
+
+## Link
+
+[Click here to play !! ](https://tic-tac-toe-nikhil-ramesh.netlify.app/)
