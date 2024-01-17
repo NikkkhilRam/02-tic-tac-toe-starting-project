@@ -13,4 +13,6 @@ This project is a React implementation of the classic Tic Tac Toe game. It serve
 - **Component Architecture:** Organized into modular components for clarity and reusability.
 - **Hooks Usage:** Demonstrates the use of React hooks, like `useState`
 
-![Tic Tac Toe Demo](./assets/demo-image.png)
+## Snapshot
+
+![Tic Tac Toe Demo](src/assets/demo-image.png)
